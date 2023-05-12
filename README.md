@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3> 🗺️ <b>Portfolio-DesktopVersion</b> 🗺️</h3>
+  <h3> 🗺️ <b>Portfolio-DesktopVersion Transition and Animation</b> 🗺️</h3>
 
 </div>
 <!-- TABLE OF CONTENTS -->
@@ -30,7 +30,7 @@
 
 # 📖 [Portfolio ] <a name="about-project"></a>
 
-> This is desktop version ofmy Portfolio website built with HTML, CSS, and Javascript technology. This website will keeps track of all the projects what I will worked on.
+> This is desktop version ofmy Portfolio website built with HTML AND CSS. This website will keeps track of all the projects what I will worked on with different features.
 
 **[Portfilio]** portfilio project
 
@@ -48,6 +48,7 @@
 - applying desktop adaptability with out affect your mobile version.
 - adaptation the media query with 768px above and bellow.
 - adding the work list
+- adding animation and Transation
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -81,7 +82,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:melkamu12/Portfolio-DesktopVersionM.git
+  git clone git@github.com:melkamu12/Portfolio-AnimationsTr.git
 ```
 
 ### Install
@@ -147,7 +148,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](git@github.com:melkamu12/Portfolio-DesktopVersionM.git).
+Feel free to check the [issues page](git@github.com:melkamu12/Portfolio-AnimationsTr.git).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
