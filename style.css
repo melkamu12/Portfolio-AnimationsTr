@@ -23,7 +23,7 @@ body {
 }
 
 .AboutContent {
-  padding-left: 1px;
+  padding-left: 2px;
   font-weight: 400;
   font-size: 17px;
   color: #344563;
@@ -33,7 +33,7 @@ body {
 /* Form styles */
 .contact-application {
   display: flex;
-  padding-left: 100px;
+  padding-left: 99px;
   padding-top: 40px;
   align-items: center;
   font-family: "Poppins", sans-serif;
