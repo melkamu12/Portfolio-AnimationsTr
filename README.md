@@ -50,17 +50,12 @@
 - adaptation the media query with 768px above and bellow.
 - adding the work list
 - adding animation and Transation
-
 ## 🚀 Live Demo <a name="live-demo"></a>
-
 > Add a link to your deployed project.
 
 - [Live Demo Link](https://melkamu12.github.io/Portfolio-AnimationsTr/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
