@@ -49,6 +49,7 @@
 - adaptation the media query with 768px above and bellow.
 - adding the work list
 - adding animation and Transation
+- Deploy the project
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -73,6 +74,8 @@ Example command:
 ```sh
   npx stylelint "**/*.{css,scss}"
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Setup
 
