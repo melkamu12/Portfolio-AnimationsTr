@@ -13,6 +13,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -49,7 +50,16 @@
 - adaptation the media query with 768px above and bellow.
 - adding the work list
 - adding animation and Transation
-- Deploy the project
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://melkamu12.github.io/Portfolio-AnimationsTr/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -74,8 +84,6 @@ Example command:
 ```sh
   npx stylelint "**/*.{css,scss}"
 ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Setup
 
